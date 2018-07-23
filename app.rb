@@ -9,5 +9,5 @@ get '/secret' do
 end
 
 get '/tomato' do
-  'Tomato pages'
+  'Tomato cheese'
 end
