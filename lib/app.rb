@@ -15,3 +15,7 @@ end
 get '/cat' do
   erb(:index)
 end
+
+get '/marek' do
+  erb (:marek)
+end
